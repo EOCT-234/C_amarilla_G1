@@ -1,5 +1,5 @@
 ---
-title: "Grupo_1"
+title: "Criolla amarilla - Grupo 1"
 format:
   html:
     mainfont: Tinos
@@ -56,7 +56,7 @@ Nombre de la finca: Ishanga
 
 Nombre del productor: Wilmer Collantes Vasquez
 
-Edad del cultivo; 7 meses (cosecha selectiva)
+Edad del cultivo; 7 meses (cosecha selectiva).
 
 ## Descripción de la variedad:
 
